@@ -1,0 +1,48 @@
+
+body{
+    background-color: beige;
+}
+.four{
+  border: 2px black;  
+}
+h1{
+    font-size:50px;
+}
+.container1{
+    text-align: center;
+    justify-content: center;
+}
+.mail{
+    margin-top: 12px;
+    margin-left: 440px;
+}
+.name{
+    margin-top: 12px;
+    margin-left: 440px;
+}
+.comment{
+    margin-top: 12px;
+    margin-left: 440px;
+}
+.one{
+    height: 5vh;
+    border-color: black;
+    border-radius: 10px;
+}
+.two{
+    height: 10vh;
+    width: 340px;
+    border-color: black;
+    border-radius: 10px;
+}
+.d{
+    margin-top: 100px;
+}
+.three{
+    height: 10vh;
+    width: 340px;
+    border-color: black;
+    border-radius: 10px;
+    margin-left: 440px;
+    margin-top: 12px;
+} 

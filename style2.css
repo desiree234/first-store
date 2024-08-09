@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    background-color: rgb(236, 236, 213);
+}
+li{
+  list-style: none; 
+  margin-right: 12px;
+}
+.navbar{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+    padding: 12px;
+    margin: 10px;
+}
+.navbar li a{
+    text-decoration: none;
+} 
+.google{
+    font-size:  40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 175px;
+
+}
+.google :hover{
+    color: rgb(24, 19, 20);
+}
+#search{
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px grey solid;
+    margin-top: 20px;
+    background-image: url(searchicon.svg);
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+   
+}
+#search :hover{
+    color: blue;
+}
+
+.container1{
+   display: flex;
+   justify-content: center;
+
+}
+::placeholder{
+    padding: 42px;
+    text-align: left;
+    justify-content: left;
+}
+.bi bi-search{
+    width: 30px;
+    height: 30px;
+}
+input{
+   padding-left: 50px;
+}
